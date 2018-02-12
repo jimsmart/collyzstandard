@@ -13,7 +13,7 @@ import "github.com/jimsmart/collyzstandard"
 
 ### Dependencies
 
-- [Zstd (github.com/DataDog/zstd)](https://github.com/DataDog/zstd) — Go wrapper for Facebook's fast real-time compression algorithm.
+- [Zstd](https://github.com/DataDog/zstd) — Go wrapper for Facebook's fast real-time compression algorithm.
 - Standard library.
 - [Ginkgo](https://onsi.github.io/ginkgo/) and [Gomega](https://onsi.github.io/gomega/) if you wish to run the tests.
 
